@@ -1,0 +1,78 @@
+/* Width Percentages*/
+.width25 {width: 25%;}
+.width50 {width: 50%;}
+.width75 {width: 75%;}
+.width100{width: 100%;}
+
+/* Margin Sizes */ 
+.margin4 {margin: 4px;}
+.margin8 {margin: 8px;}
+.margin16 {margin: 16px;}
+.margin32 {margin: 32px;}
+.margin64 {margin: 64px;}
+
+/*Margin Top Sizes*/
+.marginT4 {margin-top: 4px;}
+.marginT8 {margin-top: 8px;}
+.marginT16 {margin-top: 16px;}
+.marginT32 {margin-top: 32px;}
+.marginT64 {margin-top: 64px;}
+
+/*Margin Left Sizes*/
+.marginL4 {margin-left: 4px;}
+.marginL8 {margin-left: 8px;}
+.marginL16 {margin-left: 16px;}
+.marginL32 {margin-left: 32px;}
+.marginL64 {margin-left: 64px;}
+
+/*Margin Bottom Sizes*/
+.marginB4 {margin-bottom: 4px;}
+.marginB8 {margin-bottom: 8px;}
+.marginB16 {margin-bottom: 16px;}
+.marginB32 {margin-bottom: 32px;}
+.marginB64 {margin-bottom: 64px;}
+
+/*Margin Right Sizes*/
+.marginR4 {margin-right: 4px;}
+.marginR8 {margin-right: 8px;}
+.marginR16 {margin-right: 16px;}
+.marginR32 {margin-right: 32px;}
+.marginR64 {margin-right: 64px;}
+
+/*Padding Sizes*/
+.padding4 {padding: 4px;}
+.padding8 {padding: 8px;}
+.padding16 {padding: 16px;}
+.padding32 {padding: 32px;}
+.padding64 {padding: 64px;}
+
+/*Padding Top Sizes*/
+.paddingT4 {padding-top: 4px;}
+.paddingT8 {padding-top: 8px;}
+.paddingT16 {padding-top: 16px;}
+.paddingT32 {padding-top: 32px;}
+.paddingT64 {padding-top: 64px;}
+
+/*Padding Left Sizes*/
+.paddingL4 {padding-left: 4px;}
+.paddingL8 {padding-left: 8px;}
+.paddingL16 {padding-left: 16px;}
+.paddingL32 {padding-left: 32px;}
+.paddingL64 {padding-left: 64px;}
+
+/*Padding Bottom Sizes*/
+.paddingB4 {padding-bottom: 4px;}
+.paddingB8 {padding-bottom: 8px;}
+.paddingB16 {padding-bottom: 16px;}
+.paddingB32 {padding-bottom: 32px;}
+.paddingB64 {padding-bottom: 64px;}
+
+/*Padding Right Sizes*/
+.paddingR4 {padding-right: 4px;}
+.paddingR8 {padding-right: 8px;}
+.paddingR16 {padding-right: 16px;}
+.paddingR32 {padding-right: 32px;}
+.paddingR64 {padding-right: 64px;}
+
+/*Center Class*/
+.center {text-align: center; margin: 0 auto;}
